@@ -1,0 +1,35 @@
+ERROR SSL http://data.gov.ro/storage/f/2015-03-04T11%3A39%3A18.445Z/anunturi-participare-2012.xls
+acte-de-identitate-eliberate-in-semestrul-i-2014 - None - http://data.gov.ro/storage/f/2014-10-23T11%3A49%3A24.478Z/acte-de-identitate-eliberate-in-sem-i-2014.xls
+acte-de-identitate-eliberate-in-semestrul-i-2014 - None - http://data.gov.ro/storage/f/2014-10-23T11%3A51%3A09.065Z/acte-de-identitate-eliberate-in-sem-i-2014.xls
+autorizatii-transport-persoane - None - http://data.gov.ro/storage/f/2013-12-04T12%3A16%3A01.946Z/date-saet-persoane-16-10-2013.xls
+ERROR SSL http://ANFP Buget 2016.xlsx
+catalogul-national-al-preturilor-medicamentelor-autorizate-de-punere-pe-piata - None - http://data.gov.ro/storage/f/2013-12-13T09%3A37%3A10.092Z/canaoct-1.xls
+ERROR SSL https://data.gov.ro/dataset/42cb0946-15fe-4c66-bc89-0571572596fd/resource/ee052748-5b0f-4896-aaf7-12c948d5b620/download/auditori-1.xls
+date-generale-privind-reteaua-sanitara-a-ministerului-apararii-nationale - None - http://data.gov.ro/storage/f/2013-11-01T07%3A11%3A58.504Z/date-generale-reteaua-sanitara-mapn.xls
+date-statistice-in-domeniul-supravegherii-si-controlului-frontierei-de-stat - None - http://data.gov.ro/storage/f/2013-11-13T13%3A19%3A20.791Z/igpf-i-2013.csv
+furnizori-de-servicii-sociale-acreditati-in-baza-legii-nr-197-2012 - None - http://data.gov.ro/storage/f/2015-02-03T12%3A56%3A10.886Z/2015-02-03-registru-furnizoriss.xml
+ERROR SSL https://data.gov.ro/dataset/fe265139-42f3-4c66-8b3e-d93730518517/resource/5cf15964-4f4c-4e10-b8a8-4e3e1975d1f1/download/inp-dacia-index-1924-2010.csv
+nomenclator-strazi-judetul-arges - None - http://data.gov.ro/storage/f/2015-02-21T12%3A54%3A20.771Z/nomartererel-3-20-02-2015.xml
+nomenclator-strazi-judetul-brasov - None - http://data.gov.ro/storage/f/2015-02-21T14%3A09%3A49.959Z/nomcodaltelestazi-8-20-02-2015.xml
+nomenclator-strazi-judetul-mures - None - http://data.gov.ro/storage/f/2015-02-21T14%3A16%3A32.500Z/nomartererel-26-20-02-2015.xml
+nomenclator-strazi-judetul-mures - None - http://data.gov.ro/storage/f/2015-02-21T14%3A18%3A23.873Z/nomarteremf-26-20-02-2015.xml
+nomenclator-strazi-judetul-satu-mare - None - http://data.gov.ro/storage/f/2015-02-21T14%3A11%3A54.820Z/nomartereist-30-20-02-2015.xml
+nomenclator-strazi-judetul-satu-mare - None - http://data.gov.ro/storage/f/2015-02-21T14%3A12%3A25.968Z/nomarteremf-30-20-02-2015.xml
+nomenclator-strazi-judetul-satu-mare - None - http://data.gov.ro/storage/f/2015-02-21T14%3A12%3A41.007Z/nomartererel-30-20-02-2015.xml
+nomenclator-strazi-judetul-satu-mare - None - http://data.gov.ro/storage/f/2015-02-21T14%3A13%3A28.019Z/nomcodaltelestazi-30-20-02-2015.xml
+ERROR SSL http://isop.mai.gov.ro/set date/Numarul absolventilor ISOP 2013.xls
+ERROR SSL http://isop.mai.gov.ro/Numarul programelor ISOP 2013.xls
+ERROR SSL https://data.gov.ro/dataset/da8e426f-e1bc-4303-a518-892b10872d1a/resource/6ca7705c-b6e6-416b-8c3d-a8703ff89ab2/download/5442002.pdf
+ERROR SSL https://data.gov.ro/dataset/da8e426f-e1bc-4303-a518-892b10872d1a/resource/e81cb8d3-6c14-4922-bd10-38fa1d2f4ddf/download/5442004.pdf
+ERROR SSL http://Raport centralizat 544 pe 2015
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/d940910b-6877-410a-936c-4d0b0fa02486/download/22-03-2016---situatia-cr-cp-site.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/a7675c67-25bb-44c4-8579-ecabb6d4dfce/download/29-01-2016---situatia-cr-cp-site.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/0d8491c8-7c34-4eeb-af7e-126b6d6093c2/download/30-12-2015---situatia-cr-cp-sitecopy.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/1135148b-e534-494c-9a5a-566ac2ee82bc/download/27-11-2015---situatia-cr-cp-site.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/b97968ba-361e-48f7-b330-6c97763e037b/download/30-10-2015---situatia-cr-cp-site.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/65f8546e-e441-4a68-a614-687a0a4273e5/download/site-31-07-2015.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/43839d56-09d2-4687-a77d-f555b6114190/download/site-29-mai2015.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/23c1cb40-fa8c-45ec-ade8-a70a7c5628c7/download/site-31-mar.2015.xlsx
+ERROR SSL https://data.gov.ro/dataset/7b762914-d646-429f-af38-3976b6125291/resource/a1fd21bb-9dcd-4186-9075-123a5370813a/download/site-27-febr2015.xlsx
+retea_scolara_2013-2014 - None - http://date.edu.ro/sites/default/files/Retea%20scolara_0.pdf
+ERROR SSL http://Situatia achizitiilor in 2015
